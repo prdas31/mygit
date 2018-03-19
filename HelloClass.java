@@ -1,5 +1,3 @@
-
-
 interface LambdaFunction {
   void call();
 }
