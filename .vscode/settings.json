@@ -2,10 +2,5 @@
     "svn.ignoreMissingSvnWarning": true,
     "files.associations": {
         "iostream": "cpp"
-    },
-    "clang.executable":"D:/Program Files/LLVM/bin/clang",
-    "clang-format.executable": "D:/Program Files/LLVM/bin/clang-format",
-    "editor.minimap.enabled": true,
-    "editor.renderControlCharacters": false,
-    "git.autofetch": true
+    }
 }
